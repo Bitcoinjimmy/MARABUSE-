@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/MARIMO-RCE%20%26%20NKABUSE-FF4D4D?style=for-the-badge&logo=python&logoColor=white" alt="MARIMO RCE & NKABUSE" />
   <h1><strong>MARIMO RCE & NKABUSE EXPLOIT FRAMEWORK</strong></h1>
-  <h3><strong>(CVE-2026-39987) - RE-WEAPONIZED</strong></h3>
+  <h3><strong>(CVE-2026-39987) - RE-WEAPONIZED - Researcher: dontaskmehow</strong></h3>
 </div>
 
 > Critical Marimo RCE research framework for CVE-2026-39987 with a blockchain-based NKAbuse payload workflow.
