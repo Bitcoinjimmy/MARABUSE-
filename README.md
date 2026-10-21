@@ -2,7 +2,7 @@
 
 # MARABUSE
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Researcher:+dontaskmehow;Critical+Marimo+RCE+Research+Framework;For+CVE-+2026-+39987;With+A+Blockchain-+Based+NKAbuse+Payload+WF" alt="MARABUSE banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Researcher:+dontaskmehow;Marimo+RCE+Research+Framework" alt="MARABUSE banner" />
 
 ---
 
@@ -15,6 +15,8 @@
 
 >A Re-Weaponized Critical Marimo RCE research framework for CVE-2026-39987 with a blockchain-based NKAbuse payload workflow.
 
+---
+
  **Overview**
 
 - This framework has been Re-Weaponized & exploits CVE-2026-39987, a critical Remote Code Execution (RCE) vulnerability in Marimo, a popular Python-based data visualization tool. Attackers actively exploit this flaw to deploy NKAbuse, a blockchain-based botnet malware.
@@ -22,11 +24,10 @@
 **The framework includes:**
 
 ```bash
-| Component | Description |
-| --- | --- |
-| Python Exploit | `marimo_rce.py` — initial RCE exploit |
-| JavaScript Payload | `nkabuse_bot.js` — NKAbuse botnet client |
-| Ruby C2 Server | `c2Serverv4.rb` — command and control server for botnet management |
+| Component      | Description |
+| Python Exploit | marimo_rce.py — initial RCE exploit |
+| .js Payload    | nkabuse_bot.js — NKAbuse botnet client |
+| Ruby C2 Server | c2Serverv4.rb — command and control server for botnet management |
 ```
 ---
 
@@ -34,7 +35,7 @@
 
 `nkabuse_bot.js`
 
-- Deployed by `marimo_rce.py` to create a blockchain-based botnet.)
+- Deployed by `marimo_rce.py` to create a blockchain-based botnet.
 
 ---
 
@@ -128,6 +129,6 @@ powershell -ep bypass -f neo_marimo_rce.ps1 -TargetUrl "http://vulnerable-target
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Researcher:+dontaskmehow;Critical+Marimo+RCE+Research+Framework;For+CVE-+2026-+39987;With+A+Blockchain-+Based+NKAbuse+Payload+WF" alt="MARABUSE banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FFBF00&center=true&vCenter=true&width=700&lines=Researcher:+dontaskmehow;Marimo+RCE+Research+Framework;For+CVE-+2026-+39987;With+A+Blockchain-+Based+NKAbuse+Payload+WF" alt="MARABUSE banner" />
 
 </div>
